@@ -1,0 +1,14 @@
+
+d
+java:S2259B"BA "NullPointerException" could be thrown; "user" is nullable here.(‰×İşÿÿÿÿ8ŸÓ‘·²/
+X	java:S125U"<This block of commented-out lines of code should be removed.(¨¨±®8»Õÿ¶²/
+E	java:S108`")Either remove or fill this block of code.(Ê²Ï8¢Íò²²/
+J
+java:S1172 ",Remove this unused method parameter "roles".(Ëû­·8ãÿ•·²/
+^	java:S125®"<This block of commented-out lines of code should be removed.(’õ¼ßşÿÿÿÿ8ãÿ•·²/
+I
+java:S1168°"+Return an empty collection instead of null.(¥¹ï8ãÿ•·²/
+G
+java:S1481’")Remove this unused "user" local variable.(Ü¥½¬8ãÿ•·²/
+N
+java:S1481¬"+Remove this unused "result" local variable.( £ıÿÿÿÿ8ãÿ•·²/
